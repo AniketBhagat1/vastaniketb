@@ -70,11 +70,11 @@ My core focus lies in **AWS, Kubernetes, Docker, Ansible, Git, Terraform**, and 
 ### 🏢 **Radical Software**
 **DevOps Engineer | Aug 2019 – March 2023 | 3.7 years**
 
--Designed, deployed, and managed AWS cloud infrastructure including EC2, AMIs, EBS volumes, snapshots, and backups to ensure high -   availability and scalability.
--Built and maintained CI/CD pipelines in Jenkins, containerized applications using Docker, and managed version control with Git.
--Automated configuration management and infrastructure tasks using Ansible for consistent and repeatable deployments.
--Configured and managed AWS services such as ALB, Route 53, SNS, and S3 lifecycle policies, along with monitoring using CloudWatch.
--Supported teams with troubleshooting, deployments, IAM access management, and operational tasks, ensuring reliable and efficient cloud operations.
+- Designed, deployed, and managed AWS cloud infrastructure including EC2, AMIs, EBS volumes, snapshots, and backups to ensure high -   availability and scalability.
+- Built and maintained CI/CD pipelines in Jenkins, containerized applications using Docker, and managed version control with Git.
+- Automated configuration management and infrastructure tasks using Ansible for consistent and repeatable deployments.
+- Configured and managed AWS services such as ALB, Route 53, SNS, and S3 lifecycle policies, along with monitoring using CloudWatch.
+- Supported teams with troubleshooting, deployments, IAM access management, and operational tasks, ensuring reliable and efficient cloud operations.
 
 ---
 
