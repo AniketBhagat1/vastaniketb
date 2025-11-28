@@ -30,17 +30,14 @@ My core focus lies in **AWS, Kubernetes, Docker, Ansible, Git, Terraform**, and 
 ### ☁️ Cloud Platforms
 <p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OCI-%23C74634.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ### ⚙️ DevOps, CI/CD & Automation
 <p>
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%23181717.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-%23507AFC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🐳 Containerization & Orchestration
@@ -49,22 +46,10 @@ My core focus lies in **AWS, Kubernetes, Docker, Ansible, Git, Terraform**, and 
   <img src="https://img.shields.io/badge/Kubernetes-%232496ED.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-### 📊 Monitoring & Security
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Loki-%237E57C2.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-%23007ACC.svg?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trivy-%23FF6F61.svg?style=for-the-badge&logo=aqua-security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white"/>
-</p>
-
 ### 🗄️ Databases & Web Servers
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
 ---
@@ -72,48 +57,24 @@ My core focus lies in **AWS, Kubernetes, Docker, Ansible, Git, Terraform**, and 
 ## 💼 Professional Experience
 
 ### 🏢 **Valueadd Softtech & Systems Pvt Ltd**
-**DevOps Engineer | Jul 2022 – Present | 3.4 Years**
+**DevOps Engineer | March 2023 – Present | 2.7 Years**
 
-- Built and managed **end-to-end CI/CD pipelines** using Jenkins and GitHub Actions.  
-- Designed **infrastructure automation** using Terraform across Azure, AWS, and OCI.  
-- Managed **Kubernetes clusters** for scalable deployments and environment management.  
-- Implemented **monitoring and alerting** via Prometheus, Grafana, and Loki.  
-- Automated backup, SSL management, and log management for production environments.  
-- Wrote reusable **Bash scripts** for deployment and environment setup.  
-
----
-
-### 🏢 **Yiron Technologies Pvt Ltd**
-**DevOps Engineer | Dec 2021 – Jul 2022 | 7 Months**
-
-- Manage AWS Servers.
-- Manage Mysql servers.
-- Automation Builds the Use of Jenkins.
-- support for the Facts websites.
-- Configured Ansible roles for server Management.
-- Monitor server's use of Zabbix and alerts use of Zenduty.
-- Build Docker Images and deploy for testing application in Dev,QA, UAT.
-
-### 🏢 **Brainbees Solution Pvt. Ltd**
-**DevOps Engineer | Jun 2019 – Sep 2021 | 2.3 Years**
-
-- Analysis and study of the requirement.
-- Proactive involvement in the approach and the design.
-- Monitoring Server resources.
-- Manage AWS EC2 and S3 services.
-- Manage Mysql servers.
-- Automation Builds the Use of Jenkins.
-- Configured Ansible roles for server Management.
-- Configured and managed Kubernetes setup on-prem.
-- Manage Linux and Windows Servers.
-- Shell Scripts for database backup.
+- Build and maintain **CI/CD pipelines** using Jenkins to automate build, testing, and deployment processes.
+- Manage **Docker** containers and configuration management using **Ansible** for consistent environment setups.
+- Implement Infrastructure as Code (IaC) practices with **Terraform** to automate environment provisioning.
+- Provision and manage **AWS Cloud** infrastructure to support scalable and reliable application environments.
+- Collaborate with development and QA teams to ensure smooth deployments. 
 
 ---
 
-### 🔍 Other Contributions
-- **HR Tech Gateway:** Built on-prem accounting gateway with high availability.  
-- **Recon Dashboard:** Centralized monitoring for multiple environments.  
-- **Odoo Implementation:** Automated internal processes with Odoo setup and integrations.  
+### 🏢 **Radical Software**
+**DevOps Engineer | Aug 2019 – March 2023 | 3.7 years**
+
+-Designed, deployed, and managed AWS cloud infrastructure including EC2, AMIs, EBS volumes, snapshots, and backups to ensure high -   availability and scalability.
+-Built and maintained CI/CD pipelines in Jenkins, containerized applications using Docker, and managed version control with Git.
+-Automated configuration management and infrastructure tasks using Ansible for consistent and repeatable deployments.
+-Configured and managed AWS services such as ALB, Route 53, SNS, and S3 lifecycle policies, along with monitoring using CloudWatch.
+-Supported teams with troubleshooting, deployments, IAM access management, and operational tasks, ensuring reliable and efficient cloud operations.
 
 ---
 
